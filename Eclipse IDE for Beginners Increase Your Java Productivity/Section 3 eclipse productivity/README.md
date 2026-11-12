@@ -1,8 +1,8 @@
-## Section 3: Managing Source Code
+# Section 03: Managing Source Code.
 
- Managing Source Code
+Managing Source Code.
 
-# What I Learned
+# What I Learned.
 
 
 ### Open Type

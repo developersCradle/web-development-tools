@@ -129,15 +129,15 @@ align="center">
 
 
 
-All course material from **Eclipse Debugging Techniques And Tricks by Learning** by from Experience/Swapan Kumar Dutta 
+All course material from **Eclipse Debugging Techniques And Tricks by Learning** by from **Experience**/**Swapan Kumar Dutta**. 
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
-[Course at Udemy](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/)   
+[Course at Udemy](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/).
 
-[GitHub Course Project Link](https://github.com/j2eeexpert2015/DebuggingTutorial)
+[GitHub Course Project Link](https://github.com/j2eeexpert2015/DebuggingTutorial).
 
-[GitHub of Maker](https://github.com/j2eeexpert2015)
+[GitHub of Maker](https://github.com/j2eeexpert2015).
 
 
 
@@ -151,13 +151,13 @@ id="Logo_Combination"
 align="center">
     <img 
     src="#" 
-    alt="I had hard time in Polar interview, but was rejected. Now i have masterd the things, which they were asking for! Difficulties makes you stronger!" 
+    alt="dummy alt text!" 
     style="width:590px;height:440px;"
     />
     <img 
     id="Modern_Java_Multithreading_In_Java_Using_Virtual_Threads_Certificate?trk=public_profile_see-credential" 
-    src="#" 
-    alt="Modern java multithreading in java using virtual threads certificate!" 
+    src="Dummy_Cert.png" 
+    alt="dummy  certificate!" 
     width="600"
     />
 </p>
@@ -189,7 +189,7 @@ align="center">
 <p 
 align="center">
     <img
-    src="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Description.jpg" 
+    src="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Description.jpg"
     alt="Eclipse IDE for beginners increase your java productivity description!"
     style="width:690px"
     />
@@ -197,7 +197,11 @@ align="center">
 
 All course material from *Eclipse IDE for Beginners: Increase Your Java Productivity* by **Chad Darby**.
 
->. 🐟 <br><br> ~ DevelopersCradle
+> While working at ❄️**Kide Systems**❄️, **Eclipse IDE** was our development environment of choice. It was where I spent countless hours writing, debugging, and maintaining Java applications. Over time, Eclipse became more than just an IDE; it became a familiar companion throughout my development journey. Still I use its hotkeys, where ever I go. 🐟
+>
+> Even today, I keep hearing stories that this old classic is still the tool of choice for some of the most seasoned wizards of the old-school development world. 🐟
+>
+> Since then, Eclipse has always had a special place in my heart. Recently, I decided to revisit and refresh my knowledge through the *Eclipse IDE for Beginners course*. It was a great opportunity to revisit the fundamentals, explore productivity features, improve my understanding of debugging, code navigation, refactoring, and project management, and rediscover some of the tools that made my everyday development work easier. 🐟 <br><br> ~ DevelopersCradle
 
 Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
@@ -218,9 +222,9 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 id="Logo_Combination" 
 align="center">
     <img 
-    src="#" 
-    alt="I had hard time in Polar interview, but was rejected. Now i have masterd the things, which they were asking for! Difficulties makes you stronger!" 
-    style="width:590px;height:440px;"
+    src="Mastering_The_Tools_NW400.jpeg" 
+    alt="Mastering the Topcon NW400!" 
+    style="width:560px;height:460px;"
     />
     <img 
     id="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Certificate?trk=public_profile_see-credential" 
@@ -250,41 +254,73 @@ align="center">
     * *Quiz*:
         * [xx](#). 
 
+# Devtools Pro: The Basics of Chrome Developer Tools.
 
-<hr>
+<!-- 
+<p align="center">
+    <img 
+    id="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption?trk=public_profile_see-credential"
+    src="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption.png" 
+    alt="Java multithreading concurrency and performance optimization caption!" 
+    style="width:1600px;height:120px;"
+    />
+</p> -->
 
-![Devtools Pro](devtoolsChrome.JPG)
+<p align="center">
+    <img
+    id="Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description?trk=public_profile_see-credential" src="devtoolsChrome.JPG" 
+    style="width: 680px;"
+    />
+</p>
 
-All course material from **Devtools Pro: The Basics of Chrome Developer Tools** by Rocco Balsamo and if you want to keep going even further, he has also paid course for even better/deeper knowledge.
+
+All course material from *Devtools Pro: The Basics of Chrome Developer Tools* by **Rocco Balsamo** and if you want to keep going even further, he has also paid course for even better/deeper knowledge.
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
-[Course at Udemy](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/)   
+[Course at Udemy](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/).
 
-[Maker Home Page](https://simmer.io/)   
+[Maker Home Page](https://simmer.io/).
 
-<!-- <img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/> -->
-
-Insert certificate here when completed
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="dummy alt text!" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Certificate?trk=public_profile_see-credential" 
+    src="Dummy_Cert.png" 
+    alt="Dummy certificate!" 
+    width="600"
+    />
+</p>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
 #### Progress/Curriculum.
 
-- [ ] Section 1 - The Basics
-- [ ] Section 2 - Digging Deeper
-- [ ] Section 3 - Bonus
+- [ ] [Section 01](#) - The Basics.
+- [ ] [Section 02](#) - Digging Deeper.
+- [ ] [Section 03](#) - Bonus.
 
 <hr>
 
-some other todo:
-- todo make shortcut pdf and .md
 - todo https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/
+
+<hr>
+
 - todo https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/
+
+<hr>
+
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
 
-
 # Eclipse hotkeys.
+
+- todo make shortcut pdf and .md
 
 > Open implementation - **F3**.
 
