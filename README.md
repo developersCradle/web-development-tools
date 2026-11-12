@@ -1,21 +1,8 @@
-
-<hr>
-<p align="center">
-  <img src="eclipse.jpg" alt="alt text" width="150"/>
-</p>
-<hr>
-
-![Eclipse Tool](eclipseProfessionalTools.jpg)
+# Tools repo.
 
 <hr>
 
-<p align="center">
-   <img src="https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif" alt="alt text" width="300"/>
-</p>
-
-<hr>
-
-![Eclipse Debugging](eclipseDebuggingTechniquesAndTricks.JPG)
+![Eclipse Debugging](Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description.JPG)
 
 All course material from **Eclipse Debugging Techniques And Tricks by Learning** by from Experience/Swapan Kumar Dutta 
 
@@ -29,44 +16,117 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 
 
-Insert certificate here when completed
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="I had hard time in Polar interview, but was rejected. Now i have masterd the things, which they were asking for! Difficulties makes you stronger!" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="Modern_Java_Multithreading_In_Java_Using_Virtual_Threads_Certificate?trk=public_profile_see-credential" 
+    src="#" 
+    alt="Modern java multithreading in java using virtual threads certificate!" 
+    width="600"
+    />
+</p>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Eclipse Debugging Techniques And Tricks progress
+#### Progress/Curriculum.
 
-- [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201%20eclipse%20debugging) - Introduction to Java Debugging Using Eclipse
-- [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20debugging) - Basic Debugging Features
-- [ ] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20debugging) - Advanced Debugging Features
-- [ ] [Section 04](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20debugging) - Sample Debugging Problems And Their Solution
-- [x] [Section 05](#) - Thank You!
-- [x] [Section 06](#) - Bonus Section
+- [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201%20eclipse%20debugging) - Introduction to Java Debugging Using Eclipse. ✅
+- [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20debugging) - Basic Debugging Features. ✅
+- [ ] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20debugging) - Advanced Debugging Features.
+- [ ] [Section 04](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20debugging) - Sample Debugging Problems And Their Solution.
+- [x] [Section 05](#) - Thank You! ✅
+- [x] [Section 06](#) - Bonus Section. ✅
 
+# Eclipse IDE for Beginners: Increase Your Java Productivity.
 
+<!-- 
+<p 
+align="center">
+    <img 
+    src="#"
+    alt="Modern java multithreading in java using virtual threads caption!" 
+    style="width:990px;height:110px;"
+    />
+</p> 
+-->
 
-<hr>
+<p 
+align="center">
+    <img
+    src="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Description.jpg" 
+    alt="Eclipse IDE for beginners increase your java productivity description!"
+    style="width:690px"
+    />
+</p> 
 
-![Eclipse Debugging](eclipseIDEforBeginners.jpg)
+All course material from *Eclipse IDE for Beginners: Increase Your Java Productivity* by **Chad Darby**.
 
-All course material from **Eclipse IDE for Beginners: Increase Your Java Productivity** by Chad Darby 
+>. 🐟 <br><br> ~ DevelopersCradle
+
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
+
+This repository is made with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
+
+[The Course at Udemy](https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/).
+
+[Maker Home Page](https://luv2code.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
-[The Course at Udemy](https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/)   
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
 
-[Maker Home Page](https://luv2code.com/)   
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="I had hard time in Polar interview, but was rejected. Now i have masterd the things, which they were asking for! Difficulties makes you stronger!" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Certificate?trk=public_profile_see-credential" 
+    src="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Certificate.jpg" 
+    alt="Eclipse IDE for beginners increase your java productivity certificate!" 
+    width="600"
+    />
+</p>
 
-<img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/>
+    id="Modern_Java_Multithreading_In_Java_Using_Virtual_Threads_Certificate?trk=public_profile_see-credential
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Eclipse IDE for Beginners: Increase Your Java Productivity
+#### Progress/Curriculum.
 
-- [x] [Section 1](#) - Course Introduction and Special Discount Offer
-- [x] [Section 2](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20productivity) - Getting Started with Eclipse 
-- [x] [Section 3](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20productivity) - Managing Source Code
-- [x] [Section 4](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20productivity) - Advanced Features 
-- [x] [Section 5](#) - Summary
+- [x] [Section 01](#) - Course Introduction and Special Discount Offer. ✅
+- [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20productivity) - Getting Started with Eclipse. ✅
+- [x] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20productivity) - Managing Source Code. ✅
+- [x] [Section 04](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%.0productivity) - Advanced Features. ✅
+- [x] [Section 05](#) - Summary. ✅
+
+#### Additional stuff.
+
+- stuff(#)!
+
+#### The Quizzes and Labs.
+
+* **Section xx**:
+    * *Quiz*:
+        * [xx](#). 
+
 
 <hr>
 
@@ -86,7 +146,7 @@ Insert certificate here when completed
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Devtools Pro: The Basics of Chrome Developer Tools
+#### Progress/Curriculum.
 
 - [ ] Section 1 - The Basics
 - [ ] Section 2 - Digging Deeper
@@ -101,22 +161,26 @@ some other todo:
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
 
 
-# Eclipse hotkeys
+# Eclipse hotkeys.
 
-> Open implementation - **F3**
+> Open implementation - **F3**.
 
-<img src="f3HotKeyExample.JPG" alt="alt text" width="300"/>
+<img 
+src="f3_Hotkey_Example.JPG" 
+alt="f3 hotkey example!" 
+width="300"
+/>
 
-- Opens where `Spesification` is **implemented**
+- Opens where `Spesification` is **implemented** in.
 
-> Show all usages of a variable - **Ctrl + Shift + U**
+> Show all usages of a variable - **Ctrl + Shift + U**.
 
-<img src="ctrlShiftUHotKeyExample.JPG" alt="alt text" width="300"/>
+<img src="Ctrl_Plus_Shift_U_Hotkey_Example.JPG" alt="Ctrl_plus_shift_u hotkey example!" width="300"/>
 
-### Debugging hotkeys
+### Debugging hotkeys.
 
-> Step Over - **F6**
+> Step Over - **F6**.
 
-<img src="f6HotKeyExample.JPG" alt="alt text" width="300"/>
+<img src="f6_Hotkey_Example.JPG" alt="f6 hotkey example!" width="300"/>
 
 - Line get executed and control is given in next line 
