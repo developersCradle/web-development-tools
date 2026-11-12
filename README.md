@@ -81,7 +81,7 @@ align="center">
     <td align="center">
       <img 
         src="Tools_Graphics.gif"
-        width="590" 
+        width="300" 
         height="200" 
         />
     </td>
