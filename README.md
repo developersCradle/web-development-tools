@@ -67,7 +67,16 @@ align="center">
 	- **Answer:** **D**. here can be the examplaniton!
  -->
 
-# Tools repo.
+<img 
+id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" 
+src="Web_Developement_Graphics_Caption.png"
+style="width:900px;height:200px;"
+/>
+
+<p 
+align="center">
+    <text>Usage of <b>Eclipse/IntelliJ IDEA</b> and other related tools for web development!</text>
+</p>
 
 <table>
   <tr>
@@ -82,7 +91,7 @@ align="center">
       <img 
         src="Tools_Graphics.gif"
         width="400" 
-        height="200" 
+        height="300" 
         />
     </td>
     <td align="right">
@@ -93,20 +102,32 @@ align="center">
       />
     </td>
   </tr>
-  <ww>
-  <text>Attempt to study <b>Tools</b> and related topics!</text>
-
 </table>
-
-<text>Attempt to study <b>Tools</b> and related topics!</text>
 
 - For these courses one should configure **GIT** for handle projects.
     - `git config --global http.postBuffer 524288000`.
     - `git config --global core.longpaths true`.
 
-<hr>
+# Eclipse Debugging Techniques And Tricks by Learning.
 
-![Eclipse Debugging](Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description.JPG)
+<!-- 
+<p align="center">
+    <img 
+    id="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption?trk=public_profile_see-credential"
+    src="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption.png" 
+    alt="Java multithreading concurrency and performance optimization caption!" 
+    style="width:1600px;height:120px;"
+    />
+</p> -->
+
+<p align="center">
+    <img
+    id="Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description?trk=public_profile_see-credential" src="Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description.JPG" 
+    style="width: 680px;"
+    />
+</p>
+
+
 
 All course material from **Eclipse Debugging Techniques And Tricks by Learning** by from Experience/Swapan Kumar Dutta 
 
