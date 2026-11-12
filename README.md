@@ -72,13 +72,25 @@ align="center">
 <table>
   <tr>
     <td align="left">
-      <img src="Bikini.PNG" width="160" />
+      <img 
+      src="Bikini.PNG" 
+      width="160" 
+      height="200"
+      />
     </td>
     <td align="center">
-      <img src="Tools_Graphics.gif" width="590" />
+      <img 
+        src="Tools_Graphics.gif"
+        width="590" 
+        height="200" 
+        />
     </td>
     <td align="right">
-      <img src="Muscles_Draaki.PNG" width="250" />
+      <img 
+      src="Muscles_Draaki.PNG" 
+      width="250"
+      height="200"
+      />
     </td>
   </tr>
   <ww>
