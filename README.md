@@ -1,4 +1,98 @@
+
+<!-- 
+
+We are using following structure:
+
+<p 
+align="center">
+    <img
+     src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Caption.png"
+    alt="Jackson quick start json serialization with java made easy caption!"
+    style="width:1600px;height:120px;"
+    />
+</p> 
+<p 
+align="center">
+    <img
+    id="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Description?trk=public_profile_see-credential" src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Description.png"
+    alt="Jackson quick start json serialization with java made easy description!"
+    style="width:590px; height:160px;"
+    />
+</p>
+-->
+
+<!--
+Template for the questions:
+
+# Quiz 07: Atomic Operations, Volatile & Metrics Practical Example.
+
+<details>
+<summary 
+id="Quiz_01_Question_01"
+open="true"> <b>Question 01.</b> </summary>
+````Yaml
+Question 01:
+The question comes here!
+
+- My answer:
+
+<div
+align="center">
+    <img
+    src="Quiz 07/Q1.PNG" 
+    width="600"
+    />
+</div>
+
+1. Add here the answer!
+
+</details>
+-->
+
+<!-- 
+Template for the task/exercies:
+ 
+# Lab Exercise - Mapping Collections of Value Types.
+
+<div 
+align="center">
+    <img 
+    src="add here the exercise!" 
+    alt="Hibernate Java Persistence!" 
+    width=" 500"
+    />
+</div>
+
+1. **Question 1:** add here the question from the test!
+	- **Answer:** **D**. here can be the examplaniton!
+ -->
+
 # Tools repo.
+
+<p align="center">
+<img 
+    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Bikini.PNG"
+    style="width:900px;height:140px;"
+    />
+    <img 
+    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Tools_Graphics.gif"
+    style="width:900px;height:140px;"
+    />
+    <text>Attempt to study <b>Tools</b> and related topics!</text>
+</p>
+
+<p align="center">
+   <img 
+    src="Java_Monolith_Optimization_Repostiory_Graphic.gif"
+    alt="Java Monolith Optimization Repostiory Graphic" 
+    width="500" 
+    height="350"
+    />
+</p>
+
+- For these courses one should configure **GIT** for handle projects.
+    - `git config --global http.postBuffer 524288000`.
+    - `git config --global core.longpaths true`.
 
 <hr>
 
@@ -8,7 +102,7 @@ All course material from **Eclipse Debugging Techniques And Tricks by Learning**
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
-[The Course at Udemy](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/)   
+[Course at Udemy](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/)   
 
 [GitHub Course Project Link](https://github.com/j2eeexpert2015/DebuggingTutorial)
 
@@ -78,7 +172,7 @@ Contains my own with my own visual notes ✍️ with some course material to enf
 
 This repository is made with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
-[The Course at Udemy](https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/).
+[Course at Udemy](https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/).
 
 [Maker Home Page](https://luv2code.com/).
 
@@ -104,8 +198,6 @@ align="center">
     width="600"
     />
 </p>
-
-    id="Modern_Java_Multithreading_In_Java_Using_Virtual_Threads_Certificate?trk=public_profile_see-credential
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
@@ -136,7 +228,7 @@ All course material from **Devtools Pro: The Basics of Chrome Developer Tools** 
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
-[The Course at Udemy](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/)   
+[Course at Udemy](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/)   
 
 [Maker Home Page](https://simmer.io/)   
 
