@@ -70,12 +70,22 @@ align="center">
 # Tools repo.
 
 <p align="center">
-<img 
+  <img src="Bikini.PNG" width="140" height="140" align="left" />
+  <img src="Tools_Graphics.gif" width="590" height="140" />
+  <img src="Bikini.PNG" width="140" height="140" align="right" />
+</p>
+
+<p align="center">
+    <img 
     id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Bikini.PNG"
     style="width:900px;height:140px;"
     />
     <img 
     id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Tools_Graphics.gif"
+    style="width:900px;height:140px;"
+    />
+    <img 
+    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Bikini.PNG"
     style="width:900px;height:140px;"
     />
     <text>Attempt to study <b>Tools</b> and related topics!</text>
