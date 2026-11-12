@@ -72,16 +72,16 @@ align="center">
 <table>
   <tr>
     <td align="left">
-      <img src="Bikini.PNG" width="140" />
+      <img src="Bikini.PNG" width="160" />
     </td>
     <td align="center">
       <img src="Tools_Graphics.gif" width="590" />
     </td>
     <td align="right">
-      <img src="Bikini.PNG" width="140" />
+      <img src="Muscles_Draaki.PNG" width="250" />
     </td>
   </tr>
-  
+  <ww>
   <text>Attempt to study <b>Tools</b> and related topics!</text>
 
 </table>
