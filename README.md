@@ -69,36 +69,24 @@ align="center">
 
 # Tools repo.
 
-<p align="center">
-  <img src="Bikini.PNG" width="140" height="140" align="left" />
-  <img src="Tools_Graphics.gif" width="590" height="140" />
-  <img src="Bikini.PNG" width="140" height="140" align="right" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="Bikini.PNG" width="140" />
+    </td>
+    <td align="center">
+      <img src="Tools_Graphics.gif" width="590" />
+    </td>
+    <td align="right">
+      <img src="Bikini.PNG" width="140" />
+    </td>
+  </tr>
+  
+  <text>Attempt to study <b>Tools</b> and related topics!</text>
 
-<p align="center">
-    <img 
-    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Bikini.PNG"
-    style="width:900px;height:140px;"
-    />
-    <img 
-    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Tools_Graphics.gif"
-    style="width:900px;height:140px;"
-    />
-    <img 
-    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" src="Bikini.PNG"
-    style="width:900px;height:140px;"
-    />
-    <text>Attempt to study <b>Tools</b> and related topics!</text>
-</p>
+</table>
 
-<p align="center">
-   <img 
-    src="Java_Monolith_Optimization_Repostiory_Graphic.gif"
-    alt="Java Monolith Optimization Repostiory Graphic" 
-    width="500" 
-    height="350"
-    />
-</p>
+<text>Attempt to study <b>Tools</b> and related topics!</text>
 
 - For these courses one should configure **GIT** for handle projects.
     - `git config --global http.postBuffer 524288000`.
