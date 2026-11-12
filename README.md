@@ -73,7 +73,7 @@ align="center">
   <tr>
     <td align="left">
       <img 
-      src="Bikini.PNG" 
+      src="Bikini_Oh_You_Use_Eclipse.PNG" 
       width="160" 
       height="200"
       />
@@ -81,14 +81,14 @@ align="center">
     <td align="center">
       <img 
         src="Tools_Graphics.gif"
-        width="300" 
+        width="400" 
         height="200" 
         />
     </td>
     <td align="right">
       <img 
-      src="Muscles_Draaki.PNG" 
-      width="250"
+      src="Muscles_Yes_I_Use_IntelliJ_Draaki.PNG" 
+      width="200"
       height="200"
       />
     </td>
