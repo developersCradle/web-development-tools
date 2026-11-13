@@ -5,7 +5,7 @@ We are using following structure:
 <p 
 align="center">
     <img
-     src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Caption.png"
+    src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Caption.png"
     alt="Jackson quick start json serialization with java made easy caption!"
     style="width:1600px;height:120px;"
     />
@@ -105,7 +105,8 @@ align="center">
     - `git config --global http.postBuffer 524288000`.
     - `git config --global core.longpaths true`.
 
-<p align="center">
+<p 
+align="center">
     <img 
     id="Eclipse_Debugging_Techniques_And_Tricks_Caption?trk=public_profile_see-credential"
     src="Eclipse_Debugging_Techniques_And_Tricks_Caption.png" 
@@ -114,7 +115,8 @@ align="center">
     />
 </p>
 
-<p align="center">
+<p 
+align="center">
     <img
     id="Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description?trk=public_profile_see-credential" src="Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description.JPG" 
     style="width: 680px;"
@@ -130,7 +132,9 @@ All course material from *Eclipse Debugging Techniques And Tricks by Learning* b
 >
 > After all, debugging is not just about finding bugs. It is about making sense of the chaos behind the code. 🐟 <br><br> ~ DevelopersCradle
 
-If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
+
+This repository is made with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
 [Course at Udemy](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/).
 
@@ -138,7 +142,7 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 [GitHub of Maker](https://github.com/j2eeexpert2015).
 
-
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
 <!-- 
 Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
@@ -149,9 +153,9 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 id="Logo_Combination" 
 align="center">
     <img 
-    src="#" 
+    src="Master_Debugging_In_Multithreaded_Environment_In_KIDE.jpeg"
     alt="dummy alt text!" 
-    style="width:590px;height:440px;"
+    style="width:700px;height:480px;"
     />
     <img 
     id="Modern_Java_Multithreading_In_Java_Using_Virtual_Threads_Certificate?trk=public_profile_see-credential" 
@@ -297,15 +301,69 @@ align="center">
 
 <hr>
 
-- todo https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/
-
-<hr>
-
 - todo https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/
 
 <hr>
 
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
+
+<hr>
+
+# Refactoring Java with IntelliJ IDEA.
+
+<!-- 
+<p 
+align="center">
+    <img 
+    id="Eclipse_Debugging_Techniques_And_Tricks_Caption?trk=public_profile_see-credential"
+    src="Eclipse_Debugging_Techniques_And_Tricks_Caption.png" 
+    alt="Eclipse debugging techniques and tricks caption!" 
+    style="width:1600px;height:120px;"
+    />
+</p> -->
+
+<p 
+align="center">
+    <img
+    id="Eclipse_Debugging_Techniques_And_Tricks_By_Learning_Description?trk=public_profile_see-credential" src="Refactoring_Java_With_IntelliJ_IDEA_Decription.JPG" 
+    style="width: 680px;"
+    />
+</p>
+
+All course material from *Refactoring Java with IntelliJ IDEA* by from **InstructorJames Richardson**. 
+
+>. 🐟 <br><br> ~ DevelopersCradle
+
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+
+[Course at Udemy](https://www.udemy.com/course/refactoring-java-with-intellij-idea/).
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<p 
+id="Logo_Combination" 
+align="center">
+    <img 
+    src="#" 
+    alt="dummy alt text!" 
+    style="width:590px;height:440px;"
+    />
+    <img 
+    id="#?trk=public_profile_see-credential" 
+    src="Dummy_Cert.png" 
+    alt="dummy  certificate!" 
+    width="600"
+    />
+</p>
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [x] [Section 01](#) - todo ✅
 
 # Eclipse hotkeys.
 
