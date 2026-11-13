@@ -71,7 +71,7 @@ align="center">
     <img 
     id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" 
     src="Web_Developement_Graphics_Caption.png"
-    style="width:900px;height:200px;"
+    style="width:900px;height:160px;"
     />
     <text>Usage of <b>Eclipse/IntelliJ IDEA</b> and other related tools for web development!</text>
     <table>
@@ -79,8 +79,8 @@ align="center">
         <td align="left">
         <img 
         src="Bikini_Oh_You_Use_Eclipse.PNG" 
-        width="150" 
-        height="190"
+        width="160" 
+        height="200"
         />
         </td>
         <td align="center">
@@ -93,8 +93,8 @@ align="center">
         <td align="right">
         <img 
         src="Muscles_Yes_I_Use_IntelliJ_Draaki.PNG" 
-        width="190"
-        height="190"
+        width="200"
+        height="200"
         />
         </td>
     </tr>
@@ -104,9 +104,6 @@ align="center">
 - For these courses one should configure **GIT** for handle projects.
     - `git config --global http.postBuffer 524288000`.
     - `git config --global core.longpaths true`.
-
-
-
 
 <p align="center">
     <img 
@@ -125,10 +122,9 @@ align="center">
 </p>
 
 
-
 All course material from *Eclipse Debugging Techniques And Tricks by Learning* by from **Experience**/**Swapan Kumar Dutta**. 
 
-> While working with **GWT applications** in the K involving multiple threads, debugging could sometimes feel like chasing ghosts. 👻 Data would mysteriously disappear, and tracking down the exact moment and place where things went wrong was not always an easy task. It was one of those situations where having the right debugging tools could make all the difference. 🐟
+> While working with **GWT applications** in the ❄️**Kide Systems**❄️ I was involving in situation where there was, multiple threads, debugging could sometimes feel like chasing ghosts. 👻 Data would mysteriously disappear, and tracking down the exact moment and place where things went wrong was not always an easy task. It was one of those situations where having the right debugging tools could make all the difference. 🐟
 >
 > Revisiting Eclipse IDE's debugging features reminded me how valuable those tools really are. Breakpoints, stepping through execution, inspecting expressions, and following the flow of method calls can bring much-needed clarity to even the most confusing debugging scenarios. 🐟
 >
