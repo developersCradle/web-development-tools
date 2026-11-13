@@ -79,22 +79,22 @@ align="center">
         <td align="left">
         <img 
         src="Bikini_Oh_You_Use_Eclipse.PNG" 
-        width="160" 
-        height="200"
+        width="150" 
+        height="190"
         />
         </td>
         <td align="center">
         <img 
             src="Tools_Graphics.gif"
-            width="400" 
-            height="300" 
+            width="500" 
+            height="400" 
             />
         </td>
         <td align="right">
         <img 
         src="Muscles_Yes_I_Use_IntelliJ_Draaki.PNG" 
-        width="200"
-        height="200"
+        width="190"
+        height="190"
         />
         </td>
     </tr>
