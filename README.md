@@ -78,7 +78,7 @@ align="center">
     <tr>
         <td align="left">
         <img 
-        src="Bikini_Oh_You_Use_Eclipse.PNG" 
+        src="Bikini_Oh_You_Use_Eclipse_Here_Is_My_Number.PNG" 
         width="160" 
         height="200"
         />
@@ -92,7 +92,7 @@ align="center">
         </td>
         <td align="right">
         <img 
-        src="Muscles_Yes_I_Use_IntelliJ_Draaki.PNG" 
+        src="Muscles_Yes_I_Use_IntelliJ_Draaki_Here_Is_Wage_Raise.PNG" 
         width="200"
         height="200"
         />
