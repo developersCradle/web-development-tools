@@ -1,4 +1,3 @@
-
 <!-- 
 
 We are using following structure:
@@ -67,58 +66,56 @@ align="center">
 	- **Answer:** **D**. here can be the examplaniton!
  -->
 
-<img 
-id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" 
-src="Web_Developement_Graphics_Caption.png"
-style="width:900px;height:200px;"
-/>
-
 <p 
 align="center">
+    <img 
+    id="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption?trk=public_profile_see-credential" 
+    src="Web_Developement_Graphics_Caption.png"
+    style="width:900px;height:200px;"
+    />
     <text>Usage of <b>Eclipse/IntelliJ IDEA</b> and other related tools for web development!</text>
-</p>
-
-<table>
-  <tr>
-    <td align="left">
-      <img 
-      src="Bikini_Oh_You_Use_Eclipse.PNG" 
-      width="160" 
-      height="200"
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="Tools_Graphics.gif"
-        width="400" 
-        height="300" 
+    <table>
+    <tr>
+        <td align="left">
+        <img 
+        src="Bikini_Oh_You_Use_Eclipse.PNG" 
+        width="160" 
+        height="200"
         />
-    </td>
-    <td align="right">
-      <img 
-      src="Muscles_Yes_I_Use_IntelliJ_Draaki.PNG" 
-      width="200"
-      height="200"
-      />
-    </td>
-  </tr>
-</table>
+        </td>
+        <td align="center">
+        <img 
+            src="Tools_Graphics.gif"
+            width="400" 
+            height="300" 
+            />
+        </td>
+        <td align="right">
+        <img 
+        src="Muscles_Yes_I_Use_IntelliJ_Draaki.PNG" 
+        width="200"
+        height="200"
+        />
+        </td>
+    </tr>
+    </table>
+</p>
 
 - For these courses one should configure **GIT** for handle projects.
     - `git config --global http.postBuffer 524288000`.
     - `git config --global core.longpaths true`.
 
-# Eclipse Debugging Techniques And Tricks by Learning.
 
-<!-- 
+
+
 <p align="center">
     <img 
-    id="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption?trk=public_profile_see-credential"
-    src="Java_Multithreading_Concurrency_And_Performance_Optimization_Caption.png" 
-    alt="Java multithreading concurrency and performance optimization caption!" 
+    id="Eclipse_Debugging_Techniques_And_Tricks_Caption?trk=public_profile_see-credential"
+    src="Eclipse_Debugging_Techniques_And_Tricks_Caption.png" 
+    alt="Eclipse debugging techniques and tricks caption!" 
     style="width:1600px;height:120px;"
     />
-</p> -->
+</p>
 
 <p align="center">
     <img
@@ -129,7 +126,13 @@ align="center">
 
 
 
-All course material from **Eclipse Debugging Techniques And Tricks by Learning** by from **Experience**/**Swapan Kumar Dutta**. 
+All course material from *Eclipse Debugging Techniques And Tricks by Learning* by from **Experience**/**Swapan Kumar Dutta**. 
+
+> While working with **GWT applications** in the K involving multiple threads, debugging could sometimes feel like chasing ghosts. 👻 Data would mysteriously disappear, and tracking down the exact moment and place where things went wrong was not always an easy task. It was one of those situations where having the right debugging tools could make all the difference. 🐟
+>
+> Revisiting Eclipse IDE's debugging features reminded me how valuable those tools really are. Breakpoints, stepping through execution, inspecting expressions, and following the flow of method calls can bring much-needed clarity to even the most confusing debugging scenarios. 🐟
+>
+> After all, debugging is not just about finding bugs. It is about making sense of the chaos behind the code. 🐟 <br><br> ~ DevelopersCradle
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -173,18 +176,14 @@ align="center">
 - [x] [Section 05](#) - Thank You! ✅
 - [x] [Section 06](#) - Bonus Section. ✅
 
-# Eclipse IDE for Beginners: Increase Your Java Productivity.
-
-<!-- 
 <p 
 align="center">
     <img 
-    src="#"
+    src="Eclipse_IDE_For_Beginners_Increase_Your_Java_Productivity_Caption.png"
     alt="Modern java multithreading in java using virtual threads caption!" 
     style="width:990px;height:110px;"
     />
 </p> 
--->
 
 <p 
 align="center">
@@ -247,12 +246,6 @@ align="center">
 #### Additional stuff.
 
 - stuff(#)!
-
-#### The Quizzes and Labs.
-
-* **Section xx**:
-    * *Quiz*:
-        * [xx](#). 
 
 # Devtools Pro: The Basics of Chrome Developer Tools.
 
